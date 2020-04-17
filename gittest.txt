@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 gittest.txt
+=======
+NO
+>>>>>>> df91b607e0d06d6e5ad95ab30d80a6fc6fa6cf13
